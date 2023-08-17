@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A1BE8412A8DD0FD00F7897D /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A1BE8402A8DD0FD00F7897D /* File.swift */; };
 		5AB21EB22A60F57A00820CC8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB21EB12A60F57A00820CC8 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5A1BE83E2A8DD0CB00F7897D /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5A1BE8402A8DD0FD00F7897D /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		5AB21EAE2A60F57A00820CC8 /* Swifit_Learing */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swifit_Learing; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AB21EB12A60F57A00820CC8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				5AB21EB12A60F57A00820CC8 /* main.swift */,
+				5A1BE8402A8DD0FD00F7897D /* File.swift */,
+				5A1BE83E2A8DD0CB00F7897D /* MyPlayground.playground */,
 			);
 			path = Swifit_Learing;
 			sourceTree = "<group>";
@@ -121,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5AB21EB22A60F57A00820CC8 /* main.swift in Sources */,
+				5A1BE8412A8DD0FD00F7897D /* File.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
